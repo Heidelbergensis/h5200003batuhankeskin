@@ -1,0 +1,25 @@
+[{
+"isim": "Prof.Dr. Mehmet İPŞİRLİ",
+"kutle": "mipsirli@medipol.edu.tr",
+"resimUrl": "https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/r0.vrf",
+"sembol": "Fizik"
+},
+ {
+ "isim": "Dr.Öğr.Üye. Hande YILMAZ",
+ "kutle": "handeyilmaz@medipol.edu.tr",
+ "resimUrl":"https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/r1.vrf",
+ "sembol": "Yapay Zeka"
+},
+ {
+ "isim": "Muhammet ÇAĞATAY",
+ "kutle": "muhammet@medipol.edu.tr",
+ "resimUrl":"https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/muhammet.png",
+ "sembol": "Kotlin ile İleri Android Programlama"
+},
+ {
+ "isim": "Beyza Koyulmuş",
+ "kutle": "beyza@medipol.edu.tr",
+ "resimUrl":"https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/beyza.png",
+ "sembol": "Mobil Yazılımlar"
+}
+]
