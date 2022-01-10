@@ -1,25 +1,25 @@
 [{
-"isim": "Prof.Dr. Mehmet İPŞİRLİ",
-"kutle": "mipsirli@medipol.edu.tr",
-"resimUrl": "https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/r0.vrf",
-"sembol": "Fizik"
+"isim": "Hidrojen",
+"kutle": "1000mg",
+"sembol": "H",
+"resimUrl": "https://raw.githubusercontent.com/Heidelbergensis/h5200003_batuhan_keskin_final/main/a.jpg"
 },
  {
- "isim": "Dr.Öğr.Üye. Hande YILMAZ",
- "kutle": "handeyilmaz@medipol.edu.tr",
- "resimUrl":"https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/r1.vrf",
- "sembol": "Yapay Zeka"
+ "isim": "Helyum",
+ "kutle": "2000mg",
+ "sembol": "He",
+ "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003_batuhan_keskin_final/main/b.jpg"
 },
  {
- "isim": "Muhammet ÇAĞATAY",
- "kutle": "muhammet@medipol.edu.tr",
- "resimUrl":"https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/muhammet.png",
- "sembol": "Kotlin ile İleri Android Programlama"
+ "isim": "Lityum",
+ "kutle": "3000mg",
+ "sembol": "Li",
+ "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003_batuhan_keskin_final/main/c.jpg"
 },
  {
- "isim": "Beyza Koyulmuş",
- "kutle": "beyza@medipol.edu.tr",
- "resimUrl":"https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/beyza.png",
- "sembol": "Mobil Yazılımlar"
+ "isim": "Berilyum",
+ "kutle": "4000mg",
+ "sembol": "Be",
+ "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003_batuhan_keskin_final/main/d.jpg"
 }
 ]
