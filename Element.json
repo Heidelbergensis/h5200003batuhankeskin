@@ -1,0 +1,43 @@
+[{
+"isim": "Hidrojen",
+"kutle": "1",
+"sembol": "H",
+"resimUrl": "https://raw.githubusercontent.com/Heidelbergensis/h5200003_batuhan_keskin_final/main/hydrogen.jpg"
+},
+ {
+ "isim":" Lityum",
+ "kutle": "3",
+ "sembol": "Li",
+ "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003_batuhan_keskin_final/main/litium.jpg"
+},
+ {
+ "isim": "Sodyum",
+ "kutle": "11",
+ "sembol": "Na",
+ "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003_batuhan_keskin_final/main/sodium.jpg"
+},
+ {
+ "isim": "Potasyum",
+ "kutle": "19",
+ "sembol": "K",
+ "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003_batuhan_keskin_final/main/potassium.png"
+},
+{
+ "isim": "Rubidyum",
+ "kutle": "37",
+ "sembol": "Rb",
+ "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003_batuhan_keskin_final/main/b.jpg"
+},
+{
+ "isim": "Sezyum",
+ "kutle": "55",
+ "sembol": "Cs",
+ "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003_batuhan_keskin_final/main/cesium.jpg"
+},
+{
+ "isim":"Fransiyum",
+ "kutle": "87",
+ "sembol": "Fr",
+ "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003_batuhan_keskin_final/main/fransium.png"
+}
+]
