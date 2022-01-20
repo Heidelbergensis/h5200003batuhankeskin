@@ -9,36 +9,42 @@
  "isim":" Lityum",
  "kutle": "3",
  "sembol": "Li",
- "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003_batuhan_keskin_final/main/litium.jpg"
+ "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003_batuhan_keskin_final/main/litium.jpg",
+  "elementBilgi": "Hwewrewrewrweeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
 },
  {
  "isim": "Sodyum",
  "kutle": "11",
  "sembol": "Na",
- "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003_batuhan_keskin_final/main/sodium.jpg"
+ "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003_batuhan_keskin_final/main/sodium.jpg",
+  "elementBilgi": "Hwewrewrewrweeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
 },
  {
  "isim": "Potasyum",
  "kutle": "19",
  "sembol": "K",
- "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003_batuhan_keskin_final/main/potassium.png"
+ "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003_batuhan_keskin_final/main/potassium.png",
+  "elementBilgi": "Hwewrewrewrweeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
 },
 {
  "isim": "Rubidyum",
  "kutle": "37",
  "sembol": "Rb",
- "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003_batuhan_keskin_final/main/b.jpg"
+ "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003_batuhan_keskin_final/main/b.jpg",
+ "elementBilgi": "Hwewrewrewrweeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
 },
 {
  "isim": "Sezyum",
  "kutle": "55",
  "sembol": "Cs",
- "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003_batuhan_keskin_final/main/cesium.jpg"
+ "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003_batuhan_keskin_final/main/cesium.jpg",
+ "elementBilgi": "Hwewrewrewrweeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
 },
 {
  "isim":"Fransiyum",
  "kutle": "87",
  "sembol": "Fr",
- "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003_batuhan_keskin_final/main/fransium.png"
+ "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003_batuhan_keskin_final/main/fransium.png",
+ "elementBilgi": "Hwewrewrewrweeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
 }
 ]
