@@ -3,7 +3,7 @@
 "kutle": "1",
 "sembol": "H",
 "resimUrl": "https://raw.githubusercontent.com/Heidelbergensis/h5200003_batuhan_keskin_final/main/hydrogen.jpg",
- "elementBilgi" : <h2>Özellikler</h2>
+ "elementBilgi" : "<h2>Özellikler</h2>
 <p>Hidrojen, "H" sembolü ile ifade edilen, atom numarası 1 olan kimyasal elementtir. Standart atom ağırlığı 1.008 olan hidrojen, periyodik tablodaki en hafif elementtir. Hidrojen, tüm baryonik kütlenin yaklaşık %75'ini oluşturan, evrende en bol miktarda bulunan elementtir. Hidrojen atomu içerisinde protondan meydana gelmiş bir çekirdek ve bir birim elektrondan oluşan elektron bulutu bulunmaktadır. Normal koşullarda hidrojen gazı bir diatomik molekül olarak bulunur. Bu diatomik molekülün kimyasal gösterimi H2'dir.</p> 
 
 <h2>Fiziksel Özellikler</h2>
@@ -14,7 +14,7 @@ Hidrojen, bilinen tüm yakıtlar içerisinde birim kütle başına en yüksek en
 <h2>Kimyasal Özellikler</h2>
 <p>Hidrojenin keşfedilen ilk kimyasal özelliği, oksijenle birleştiğinde yanıcı reaksiyon göstererek suyu (H2O) oluşturmasıdır. Çoğu ametal elementle kovalent bileşikler oluşturduğundan, Dünya üzerindeki hidrojenin neredeyse hepsi, su veya organik bileşikler gibi moleküler formda bulunur. 
 
-Hidrojen, özellikle asit-baz reaksiyonlarında önemli bir rol oynar çünkü, çoğu asit-baz reaksiyonu çözünür moleküller arasında proton alış-verişini içerir. İyonik bileşiklerde hidrojen, hidrit olarak bulunduğunda negatif yüklü (yani anyon) veya pozitif yüklü (yani katyon) bir formda bulunabilir.</p>
+Hidrojen, özellikle asit-baz reaksiyonlarında önemli bir rol oynar çünkü, çoğu asit-baz reaksiyonu çözünür moleküller arasında proton alış-verişini içerir. İyonik bileşiklerde hidrojen, hidrit olarak bulunduğunda negatif yüklü (yani anyon) veya pozitif yüklü (yani katyon) bir formda bulunabilir.</p>"
 },
  {
  "isim":" Lityum",
