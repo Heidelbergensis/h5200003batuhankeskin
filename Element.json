@@ -2,7 +2,7 @@
 "isim": "Hidrojen",
 "kutle": "1",
 "sembol": "H",
-"resimUrl": "https://raw.githubusercontent.com/Heidelbergensis/h5200003_batuhan_keskin_final/main/hydrogen.jpg",
+"resimUrl": "https://raw.githubusercontent.com/Heidelbergensis/h5200003batuhankeskin/main/hydrogen.jpg",
  "elementBilgi" : "<h2>Özellikler</h2>
 <p>Hidrojen, H sembolü ile ifade edilen, atom numarası 1 olan kimyasal elementtir. Standart atom ağırlığı 1.008 olan hidrojen, periyodik tablodaki en hafif elementtir. Hidrojen, tüm baryonik kütlenin yaklaşık %75'ini oluşturan, evrende en bol miktarda bulunan elementtir. Hidrojen atomu içerisinde protondan meydana gelmiş bir çekirdek ve bir birim elektrondan oluşan elektron bulutu bulunmaktadır. Normal koşullarda hidrojen gazı bir diatomik molekül olarak bulunur. Bu diatomik molekülün kimyasal gösterimi H2'dir.</p> 
 
@@ -20,7 +20,7 @@ Hidrojen, özellikle asit-baz reaksiyonlarında önemli bir rol oynar çünkü, 
  "isim":" Lityum",
  "kutle": "3",
  "sembol": "Li",
- "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003_batuhan_keskin_final/main/litium.jpg",
+ "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003batuhankeskin/main/lithium.jpg",
   "elementBilgi": "<h2>Özellikler</h2>
 <p>Lityum, Li kısaltması ile sembolize edilen, atom numarası 3 olan kimyasal bir elementtir. Yumuşak, gümüş-beyaz renge sahip alkali bir metal olan lityum, standart koşullarda, kütle olarak en hafif metal olmasına rağmen, en katı element olarak da bilinir.</p>
 
@@ -32,7 +32,7 @@ Lityum, doğada hiçbir zaman serbest halde bulunmaz. Okyanuslarda iyon formunda
  "isim": "Sodyum",
  "kutle": "11",
  "sembol": "Na",
- "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003_batuhan_keskin_final/main/sodium.jpg",
+ "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003batuhankeskin/main/sodium.jpg",
   "elementBilgi": "<h2>Özellikler</h2>
 <p>Sodyum, Na sembolü ile gösterilen ve atom numarası 11 olan kimyasal bir elementtir. Yumuşak, gümüş-beyaz renkli ve oldukça reaktif bir metaldir. Periyodik tablonun birinci grubunda yer alır ve bir alkali metal olarak tanımlanır. Bilinen tek kararlı izotopu 23Na'dır. Serbest metal hali doğada oluşmaz, bileşikler ile ayrıştırılması gerekir.
 
@@ -42,7 +42,7 @@ Sodyum, yerkabuğunda en sık bulunan altıncı elementtir. Sodalit ve kaya tuzu
  "isim": "Potasyum",
  "kutle": "19",
  "sembol": "K",
- "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003_batuhan_keskin_final/main/potassium.png",
+ "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003batuhankeskin/main/potassium.jpg",
   "elementBilgi": "<h2>Özellikler</h2>
 <p>Potasyum, K sembolü ile gösterilen ve atom numarası 19 olan kimyasal bir elementtir. Potasyum, çok az kuvvetle, hatta bıçakla kesilebilecek kadar yumuşak, gümüşi beyaz renk bir metaldir.[1] Potasyum, bir aleve lavanta rengi verir ve buharı yeşildir. Potasyum metali atmosferik oksijenle hızla reaksiyona girerek sadece birkaç saniye içinde lapa lapa beyaz potasyum peroksit oluşturur. 
 
@@ -58,7 +58,7 @@ Sodyum, yerkabuğunda en sık bulunan altıncı elementtir. Sodalit ve kaya tuzu
  "isim": "Rubidyum",
  "kutle": "37",
  "sembol": "Rb",
- "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003_batuhan_keskin_final/main/rubidium.jpg",
+ "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003batuhankeskinfinal/main/rubidium.jpg",
  "elementBilgi": "<h2>Özellikler</h2>
 <p>Rubidyum, Rb sembolü ile gösterilen ve atom numarası 37 olan bir elementtir. Rubidyum, alkali metal grubunda yer alan çok yumuşak, gümüşi beyaz bir metaldir. Rubidyum metal, fiziksel görünüm, yumuşaklık ve iletkenlik açısından potasyum metal ve sezyum metal ile benzerlikler paylaşır. Rubidyum atmosferik oksijen altında depolanamaz, çünkü yüksek derecede ekzotermik bir reaksiyon ortaya çıkacak ve hatta bazen metalin alev almasına neden olacaktır.[1] 
 
@@ -72,7 +72,7 @@ Rubidyum ve sezyum her oranda karışabilir ve tam katı çözünürlüğe sahip
  "isim": "Sezyum",
  "kutle": "55",
  "sembol": "Cs",
- "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003_batuhan_keskin_final/main/cesium.jpg",
+ "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003batuhankeskinfinal/main/cesium.jpg",
  "elementBilgi": "<h2>Özellikler</h2>
 <p>Sezyum, Cs sembolü ile gösterilen ve atom numarası 55 olan kimyasal bir elementtir. Metal, mavi renkte iki parlak çizgi içeren bir spektrum ile karakterize edilir. Gümüşi altın renkte yumuşak ve sünektir. Elektropozitifliği ve alkali özelliği en yüksek olan elementtir. Sezyum, oda sıcaklığında cıvadan sonra sıvı olan tek metaldir. Sezyum soğuk suyla patlayarak reaksiyona girer ve -116 °C'nin üzerindeki sıcaklıklarda buzla reaksiyona girer. Sezyum hidroksit güçlü bir bazdır ve camı aşındırır. Sezyum metali havaya maruz kaldığında hızla oksitlenir ve yüzeyinde tehlikeli bir süperoksit oluşturabilir.</p>
 
@@ -86,7 +86,7 @@ Rubidyum ve sezyum her oranda karışabilir ve tam katı çözünürlüğe sahip
  "isim":"Fransiyum",
  "kutle": "87",
  "sembol": "Fr",
- "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003_batuhan_keskin_final/main/fransium.png",
+ "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003batuhankeskinfinal/main/fransium.jpg",
  "elementBilgi": "<h2>Özellikler</h2>
 <p>Fransiyum, kimyasal sembolü Fr, atom numarası 87 olan bir elementtir. Oda sıcaklığında katı fazda bulunmaktadır. Periyodik cetvelin 1A alkali metal grubunun 7. periyodunda bulunmaktadır. Kararsız, radyoaktif bir metaldir. Düşük bir erime noktasına sahiptir. Bu erime noktası, 300 K (27°C veya 81°F) olarak ölçülmüştür fakat kaynama noktası bilinmemektedir. Fransiyum, tüm elementler arasında en az elektronegatif olanıdır.</p>"
 }
