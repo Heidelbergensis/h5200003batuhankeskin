@@ -15,6 +15,8 @@ Hidrojen, bilinen tüm yakıtlar içerisinde birim kütle başına en yüksek en
 <p>Hidrojenin keşfedilen ilk kimyasal özelliği, oksijenle birleştiğinde yanıcı reaksiyon göstererek suyu (H2O) oluşturmasıdır. Çoğu ametal elementle kovalent bileşikler oluşturduğundan, Dünya üzerindeki hidrojenin neredeyse hepsi, su veya organik bileşikler gibi moleküler formda bulunur. 
 
 Hidrojen, özellikle asit-baz reaksiyonlarında önemli bir rol oynar çünkü, çoğu asit-baz reaksiyonu çözünür moleküller arasında proton alış-verişini içerir. İyonik bileşiklerde hidrojen, hidrit olarak bulunduğunda negatif yüklü (yani anyon) veya pozitif yüklü (yani katyon) bir formda bulunabilir.</p>"
+<h2>Bulunma Sıklığı ve Üretimi</h2>
+<p>Hidrojen, evrende bulunması en kolay olan elementlerin başında gelir. Evrenin keşfedilen kısmının yaklaşık %90'ının hidrojenden oluştuğu tahmin edilmektedir.H2, kimya ve biyoloji laboratuvarlarında, genellikle diğer reaksiyonların bir yan ürünü olarak üretilir. 2020 yılına ait istatistikle göre, hidrojenin çoğunluğu (yaklaşık %95); doğal gazın buharla reformasyonu, metan gazının kısmi oksidasyonu ve kömür gazlaştırma yollarıyla fosil yakıtlardan üretilmektedir. Dünyadaki hidrojenin %95'inden fazlası, buharlı metan gazı dönüştürme işlemi kullanılarak üretilmektedir. Bu reaksiyonda doğal gaz, karbon monoksit ve hidrojen üretmek için yüksek bir sıcaklıkta buharla reaksiyona girer. Bunun ardından, "su gaz değiştirme reaksiyonu" sonucunda karbondioksit üretilir.</p>
 },
  {
  "isim":" Lityum",
@@ -27,7 +29,11 @@ Hidrojen, özellikle asit-baz reaksiyonlarında önemli bir rol oynar çünkü, 
 Tüm alkali metaller gibi, lityum da oldukça reaktif ve yanıcı bir elementtir. Depolanması gerektiğinde mineral yağı kullanılmalıdır. Kesildiğinde metalik bir parlaklığa sahip olsa da, nemli havanın etkisiyle, hızlı bir şekilde donuk gümüş-gri renge bürünür. Son olarak siyahlaşarak, tamamen kararır. 
 
 Lityum, doğada hiçbir zaman serbest halde bulunmaz. Okyanuslarda iyon formunda bulunur ve genellikle tuzlu sulardan elde edilir. Lityum, lityum klorür ve potasyum klorür karışımından elektrolitik olarak ayrıştırılır.</p>"
-},
+<h2>Bulunma Sıklığı ve Üretimi</h2>
+<p>Büyük Patlama'da sentezlenmiş olmasına rağmen, lityum, (berilyum ve bor ile birlikte) Evren'de diğer elementlere nazaran çok daha az miktarda bulunur. Bunun temel sebebi, Evren'de lityumun oluşması için gereken şartların nadiren sağlanabiliyor olmasıdır. Modern kozmolojik teorilere göre, lityum Büyük Patlama'da sentezlenen üç elementten biridir.
+
+II. Dünya Savaşı'nın sona ermesiyle birlikte, dünyada lityum üretimi büyük ölçüde artmıştır. Lityum metali, %55 lityum klorür ve %45 potasyum klorür karışımının yaklaşık 450 °C'de kaynatılarak elektroliz edilmesi yoluyla üretilir.</p>
+ },
  {
  "isim": "Sodyum",
  "kutle": "11",
@@ -37,6 +43,10 @@ Lityum, doğada hiçbir zaman serbest halde bulunmaz. Okyanuslarda iyon formunda
 <p>Sodyum, Na sembolü ile gösterilen ve atom numarası 11 olan kimyasal bir elementtir. Yumuşak, gümüş-beyaz renkli ve oldukça reaktif bir metaldir. Periyodik tablonun birinci grubunda yer alır ve bir alkali metal olarak tanımlanır. Bilinen tek kararlı izotopu 23Na'dır. Serbest metal hali doğada oluşmaz, bileşikler ile ayrıştırılması gerekir.
 
 Sodyum, yerkabuğunda en sık bulunan altıncı elementtir. Sodalit ve kaya tuzu (NaCl) gibi çok sayıda mineralde bulunur. Pek çok sodyum tuzu suda kolayca çözünür. Saf hali, suda kendiliğinden alev alabildiği için yağ veya gazyağı içinde depolanır. Sodyum metali su üzerinde yüzer. Oda sıcaklığında sodyum metali, bir bıçakla kesebileceğiniz kadar yumuşaktır. </p>"
+<h2>Bulunma Sıklığı ve Üretimi</h2>
+<p>Sodyum yeryüzünde bol miktarda bulunan bir elementtir. Yer kabuğu %2,27 sodyum içerir. Aynı zamanda güneşte ve diğer birçok yıldızda bulunur.  Sodyumun okyanusta tahmini bulunma oranı litre başına 1.08 × 104 miligramdır.Bu nedenle, sodyumun en çok bulunan alkali metal olduğunu söylemek mümkündür. Yüksek reaktivitesinden dolayı asla saf bir element olarak bulunmaz. 
+
+Sodyum pek çok mineralde bulunur. En yaygın sodyum minerali halit veya sodyum klorür tuzudur. Saf sodyum, erimiş sodyum klorürün elektrolizi ile elde edilebilir. Yıllık üretimi yaklaşık 100.000 ton olan metalik sodyum, yalnızca özel uygulamalarda kullanılmaktadır.</p>
 },
  {
  "isim": "Potasyum",
@@ -53,6 +63,8 @@ Sodyum, yerkabuğunda en sık bulunan altıncı elementtir. Sodalit ve kaya tuzu
 
 <h2>Kimyasal Özellikler</h2>
 <p>Potasyum, havadaki oksijen, su ve karbondioksit bileşenleriyle reaksiyona girer. Oksijenle potasyum peroksit oluşturur. Su ile potasyum hidroksit oluşturur. Potasyumun su ile reaksiyonu ekzotermik olabilir, özellikle tepkime sırasında üretilen hidrojen gazı tutuşabilir. Bu nedenle, potasyum ve sıvı sodyum-potasyum (NaK) alaşımı, artık kullanılmamalarına rağmen güçlü kurutuculardır.</p>"
+<h2>Bulunma Sıklığı ve Üretimi</h2>
+<p>Potasyum, yer kabuğunda en çok bulunan yedinci metaldir. Kütlece yer kürenin %2,4 oluşturur. Dünyada milyarlarca ton potasyum klorür birikintileri var. Yılda yaklaşık 35 milyon ton potasyum klorür çıkartılmaktadır. Potasyum minerallerinin çoğu magmatik kayalarda bulunur. Metalin bu minerallerden elde edilmesi zordur. Bununla birlikte, denizlerin veya göllerin buharlaşmasıyla oluşan birikintilerde bulunan silvit (potasyum klorür), silvinit (potasyum ve sodyum klorür karışımı) ve karnalit (potasyum magnezyum klorür) gibi başka minerallerden de potasyum elde edilebilmektedir. Potasyum tuzları bu kaynaklardan daha kolay bir şekilde elde edilebilir.</p>
 },
 {
  "isim": "Rubidyum",
@@ -67,6 +79,10 @@ Bunun yanı sıra su ile şiddetli bir şekilde reaksiyona girerek alevlere dön
 Doğal rubidyum, Dünya'nın kabuğunun yaklaşık %0.01'ini oluşturur. İki izotopun karışımı olarak bulunur: rubidyum-85 (%72,15) ve yarı ömrü yaklaşık 6×1011 yıl olan beta ışınları yayan radyoaktif rubidyum-87 (%27,85). Rubidyum-79'dan rubidyum-95'e kadar çok sayıda radyoaktif izotop yapay olarak bulunmaktadır. Güneş sisteminin yaşının 4,6 milyar yıl olarak tahmin edilmesi, bir göktaşı içindeki rubidyum-87'nin stronsiyum-87'ye oranına dayanmaktadır. Rubidyum, tek değerlik elektronunu kolayca kaybeder, ancak diğerlerini kaybetmez. Oksidasyon sayısını +1 olarak alır. Ancak anyon, Rb- içeren birkaç bileşik sentezlenmiştir.
 
 Rubidyum ve sezyum her oranda karışabilir ve tam katı çözünürlüğe sahiptir; minimum 9 °C (48 °F)'de erime noktasına ulaşılır. Daha hafif alkali metallere kıyasla artan spesifik rubidyum hacmi nedeniyle, diğer metallerle alaşım oluşturma eğilimi daha düşüktür.</p>"
+<h2>Bulunma Sıklığı ve Üretimi</h2>
+<p>Rubidyum, yer kabuğunda en çok bulunan 23. elementtir. %1'e kadar rubidyum oksit içeren lösit, pollucite, carnallite ve zinnwaldite minerallerinde doğal olarak bulunur. Lepidolit %0,3 ile %3,5 arasında rubidyum içerir ve elementin ticari kaynağıdır. Rubidyum üretiminin temel ticaret sürecinde lityum tuzları lepidolitten ekstrakte edildikten sonra kalan alkali metal karbonatların karışımından az miktarda rubidyum elde edilir. Öncelikle bir potasyum karbonat olan bu yan ürün ayrıca yaklaşık %23 rubidyum ve %3 sezyum karbonat içerir.</p>
+
+<p>Saf rubidyum üretimi ile ilgili birincil zorluk, doğada her zaman sezyum ile birlikte bulunması ve diğer alkali metallerle karıştırılmasıdır. Bu elementler kimyasal olarak çok benzer olduklarından, ayırmak ve ayırt etmek oldukça zor hale gelmektedir. Saf tuzlar hazırlandıktan sonra, onları serbest metale dönüştürmek daha basittir. </p>
 },
 {
  "isim": "Sezyum",
@@ -81,6 +97,8 @@ Rubidyum ve sezyum her oranda karışabilir ve tam katı çözünürlüğe sahip
 
 <h2>Kimyasal Özellikler</h2>
 <p>Sezyum çok reaktif bir metaldir. Havadaki oksijen ile hızla birleşir ve su ile şiddetli reaksiyona girer. Su ile reaksiyonundan hidrojen gazı açığa çıkar. Reaksiyonun yaydığı ısı sonucunda hidrojen gazı hemen tutuşur. Sezyum, havadaki oksijen ve su buharı ile reaksiyona girmesini önlemek için gazyağı veya mineral yağ altında saklanmalıdır. Sezyum ayrıca asitler, halojenler, kükürt ve fosfor ile şiddetli bir şekilde reaksiyona girer.</p>"
+<h2>Bulunma Sıklığı ve Üretimi</h2>
+<p>Sezyum diğer alkali metallerden çok daha az bulunmasına rağmen, yine de arsenik, iyot ve uranyum gibi elementlerden daha yaygındır. Çok az sezyum minerali bilinmektedir. Bunlar granitlerden soğutulmuş silikat magmalardır. Dünyada sezyum bileşiklerinin üretimi yılda sadece 20 ton olup, çoğunlukla Bernic gölünden (Kanada), Zimbabve ve Güney-Batı Afrika'dan gelmektedir.</p>
 },
 {
  "isim":"Fransiyum",
@@ -89,5 +107,7 @@ Rubidyum ve sezyum her oranda karışabilir ve tam katı çözünürlüğe sahip
  "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003batuhankeskin/main/fransium.png",
  "elementBilgi": "<h2>Özellikler</h2>
 <p>Fransiyum, kimyasal sembolü Fr, atom numarası 87 olan bir elementtir. Oda sıcaklığında katı fazda bulunmaktadır. Periyodik cetvelin 1A alkali metal grubunun 7. periyodunda bulunmaktadır. Kararsız, radyoaktif bir metaldir. Düşük bir erime noktasına sahiptir. Bu erime noktası, 300 K (27°C veya 81°F) olarak ölçülmüştür fakat kaynama noktası bilinmemektedir. Fransiyum, tüm elementler arasında en az elektronegatif olanıdır.</p>"
+<h2>Bulunma Sıklığı ve Üretimi</h2>
+<p>%99 oranında beta parçalanmasına uğrayıp bir aktinyum parçalanmasının ürünü olan fransiyum, o kadar yüksek radyoaktiftir ki, en kararlı izotopu bile yalnızca 22 dakikalık bir yarı ömre sahiptir. Bu nedenle, yerkabuğunda herhangi bir zamanda sadece 20-30 gram bulunur.</p> 
 }
 ]
