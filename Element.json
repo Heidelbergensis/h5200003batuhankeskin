@@ -58,7 +58,7 @@ Sodyum, yerkabuğunda en sık bulunan altıncı elementtir. Sodalit ve kaya tuzu
  "isim": "Rubidyum",
  "kutle": "37",
  "sembol": "Rb",
- "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003batuhankeskinfinal/main/rubidium.jpg",
+ "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003batuhankeskin/main/rubidium.jpg",
  "elementBilgi": "<h2>Özellikler</h2>
 <p>Rubidyum, Rb sembolü ile gösterilen ve atom numarası 37 olan bir elementtir. Rubidyum, alkali metal grubunda yer alan çok yumuşak, gümüşi beyaz bir metaldir. Rubidyum metal, fiziksel görünüm, yumuşaklık ve iletkenlik açısından potasyum metal ve sezyum metal ile benzerlikler paylaşır. Rubidyum atmosferik oksijen altında depolanamaz, çünkü yüksek derecede ekzotermik bir reaksiyon ortaya çıkacak ve hatta bazen metalin alev almasına neden olacaktır.[1] 
 
@@ -72,7 +72,7 @@ Rubidyum ve sezyum her oranda karışabilir ve tam katı çözünürlüğe sahip
  "isim": "Sezyum",
  "kutle": "55",
  "sembol": "Cs",
- "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003batuhankeskinfinal/main/cesium.jpg",
+ "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003batuhankeskin/main/cesium.jpg",
  "elementBilgi": "<h2>Özellikler</h2>
 <p>Sezyum, Cs sembolü ile gösterilen ve atom numarası 55 olan kimyasal bir elementtir. Metal, mavi renkte iki parlak çizgi içeren bir spektrum ile karakterize edilir. Gümüşi altın renkte yumuşak ve sünektir. Elektropozitifliği ve alkali özelliği en yüksek olan elementtir. Sezyum, oda sıcaklığında cıvadan sonra sıvı olan tek metaldir. Sezyum soğuk suyla patlayarak reaksiyona girer ve -116 °C'nin üzerindeki sıcaklıklarda buzla reaksiyona girer. Sezyum hidroksit güçlü bir bazdır ve camı aşındırır. Sezyum metali havaya maruz kaldığında hızla oksitlenir ve yüzeyinde tehlikeli bir süperoksit oluşturabilir.</p>
 
@@ -86,7 +86,7 @@ Rubidyum ve sezyum her oranda karışabilir ve tam katı çözünürlüğe sahip
  "isim":"Fransiyum",
  "kutle": "87",
  "sembol": "Fr",
- "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003batuhankeskinfinal/main/fransium.jpg",
+ "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003batuhankeskin/main/fransium.png",
  "elementBilgi": "<h2>Özellikler</h2>
 <p>Fransiyum, kimyasal sembolü Fr, atom numarası 87 olan bir elementtir. Oda sıcaklığında katı fazda bulunmaktadır. Periyodik cetvelin 1A alkali metal grubunun 7. periyodunda bulunmaktadır. Kararsız, radyoaktif bir metaldir. Düşük bir erime noktasına sahiptir. Bu erime noktası, 300 K (27°C veya 81°F) olarak ölçülmüştür fakat kaynama noktası bilinmemektedir. Fransiyum, tüm elementler arasında en az elektronegatif olanıdır.</p>"
 }
