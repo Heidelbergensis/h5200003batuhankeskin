@@ -1,5 +1,5 @@
 [{
-"isim": "Hidrojen",
+"isim": "                      Hidrojen",
 "kutle": "1",
 "sembol": "H",
 "resimUrl": "https://raw.githubusercontent.com/Heidelbergensis/h5200003batuhankeskin/main/hydrogen.jpg",
@@ -19,7 +19,7 @@ Hidrojen, özellikle asit-baz reaksiyonlarında önemli bir rol oynar çünkü, 
 <p>Hidrojen, evrende bulunması en kolay olan elementlerin başında gelir. Evrenin keşfedilen kısmının yaklaşık %90'ının hidrojenden oluştuğu tahmin edilmektedir.H2, kimya ve biyoloji laboratuvarlarında, genellikle diğer reaksiyonların bir yan ürünü olarak üretilir. 2020 yılına ait istatistikle göre, hidrojenin çoğunluğu (yaklaşık %95); doğal gazın buharla reformasyonu, metan gazının kısmi oksidasyonu ve kömür gazlaştırma yollarıyla fosil yakıtlardan üretilmektedir. Dünyadaki hidrojenin %95'inden fazlası, buharlı metan gazı dönüştürme işlemi kullanılarak üretilmektedir. Bu reaksiyonda doğal gaz, karbon monoksit ve hidrojen üretmek için yüksek bir sıcaklıkta buharla reaksiyona girer. Bunun ardından, su gaz değiştirme reaksiyonu sonucunda karbondioksit üretilir.</p>"
 },
  {
- "isim":" Lityum",
+ "isim":"                       Lityum",
  "kutle": "3",
  "sembol": "Li",
  "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003batuhankeskin/main/lithium.jpg",
@@ -35,7 +35,7 @@ Lityum, doğada hiçbir zaman serbest halde bulunmaz. Okyanuslarda iyon formunda
 II. Dünya Savaşı'nın sona ermesiyle birlikte, dünyada lityum üretimi büyük ölçüde artmıştır. Lityum metali, %55 lityum klorür ve %45 potasyum klorür karışımının yaklaşık 450 °C'de kaynatılarak elektroliz edilmesi yoluyla üretilir.</p>"
  },
  {
- "isim": "Sodyum",
+ "isim": "                      Sodyum",
  "kutle": "11",
  "sembol": "Na",
  "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003batuhankeskin/main/sodium.jpg",
@@ -49,7 +49,7 @@ Sodyum, yerkabuğunda en sık bulunan altıncı elementtir. Sodalit ve kaya tuzu
 Sodyum pek çok mineralde bulunur. En yaygın sodyum minerali halit veya sodyum klorür tuzudur. Saf sodyum, erimiş sodyum klorürün elektrolizi ile elde edilebilir. Yıllık üretimi yaklaşık 100.000 ton olan metalik sodyum, yalnızca özel uygulamalarda kullanılmaktadır.</p>"
 },
  {
- "isim": "Potasyum",
+ "isim": "                    Potasyum",
  "kutle": "19",
  "sembol": "K",
  "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003batuhankeskin/main/potassium.jpg",
@@ -67,7 +67,7 @@ Sodyum pek çok mineralde bulunur. En yaygın sodyum minerali halit veya sodyum 
 <p>Potasyum, yer kabuğunda en çok bulunan yedinci metaldir. Kütlece yer kürenin %2,4 oluşturur. Dünyada milyarlarca ton potasyum klorür birikintileri var. Yılda yaklaşık 35 milyon ton potasyum klorür çıkartılmaktadır. Potasyum minerallerinin çoğu magmatik kayalarda bulunur. Metalin bu minerallerden elde edilmesi zordur. Bununla birlikte, denizlerin veya göllerin buharlaşmasıyla oluşan birikintilerde bulunan silvit (potasyum klorür), silvinit (potasyum ve sodyum klorür karışımı) ve karnalit (potasyum magnezyum klorür) gibi başka minerallerden de potasyum elde edilebilmektedir. Potasyum tuzları bu kaynaklardan daha kolay bir şekilde elde edilebilir.</p>"
 },
 {
- "isim": "Rubidyum",
+ "isim": "                     Rubidyum",
  "kutle": "37",
  "sembol": "Rb",
  "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003batuhankeskin/main/rubidium.jpg",
@@ -85,7 +85,7 @@ Rubidyum ve sezyum her oranda karışabilir ve tam katı çözünürlüğe sahip
 <p>Saf rubidyum üretimi ile ilgili birincil zorluk, doğada her zaman sezyum ile birlikte bulunması ve diğer alkali metallerle karıştırılmasıdır. Bu elementler kimyasal olarak çok benzer olduklarından, ayırmak ve ayırt etmek oldukça zor hale gelmektedir. Saf tuzlar hazırlandıktan sonra, onları serbest metale dönüştürmek daha basittir. </p>"
 },
 {
- "isim": "Sezyum",
+ "isim": "                     Sezyum",
  "kutle": "55",
  "sembol": "Cs",
  "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003batuhankeskin/main/cesium.jpg",
@@ -101,7 +101,7 @@ Rubidyum ve sezyum her oranda karışabilir ve tam katı çözünürlüğe sahip
 <p>Sezyum diğer alkali metallerden çok daha az bulunmasına rağmen, yine de arsenik, iyot ve uranyum gibi elementlerden daha yaygındır. Çok az sezyum minerali bilinmektedir. Bunlar granitlerden soğutulmuş silikat magmalardır. Dünyada sezyum bileşiklerinin üretimi yılda sadece 20 ton olup, çoğunlukla Bernic gölünden (Kanada), Zimbabve ve Güney-Batı Afrika'dan gelmektedir.</p>"
 },
 {
- "isim":"Fransiyum",
+ "isim":"                    Fransiyum",
  "kutle": "87",
  "sembol": "Fr",
  "resimUrl":"https://raw.githubusercontent.com/Heidelbergensis/h5200003batuhankeskin/main/fransium.png",
